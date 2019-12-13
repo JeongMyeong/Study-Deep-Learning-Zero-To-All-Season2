@@ -1,2 +1,2 @@
-# Study-Deep-Learning-Zero-To-All-Season2
-https://github.com/deeplearningzerotoall/season2 공부
+# 모두를 위한 딥러닝 시즌2- Pytorch 공부
+- 34개 영상 
